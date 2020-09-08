@@ -1,5 +1,5 @@
 # COVID19-Risk-Analyzer-Template
-### Idea
+### Idea :
 
 - The user will give some inputs against our predefined questions
 - Then we will predict the chances of getting effected by COVID19, using our own derived algorithm.
