@@ -1,6 +1,6 @@
 # COVID19-Risk-Analyzer-Template
 
-in this current situation, it is also very dangerous to have a test for COVID-19, as the hospitals are also infected. People may be infected from the hospital, though he was not previously infected by corona virus. So we should not visit the hospital if it is not an emergency or very necessary. Still, it's a doubt should we have a test for corona virus or not. 
+In this current pandamic situation, it is also very dangerous to have a test for COVID-19, as the hospitals are also infected. People may be infected from the hospital, though he was not previously infected by corona virus. So we should not visit the hospital if it is not an emergency or very necessary. Still, it's a doubt should we have a test for corona virus or not. 
 
 For a solution of this doubt, me and my friend have created one virtual risk analyzer for COVID-19. Which can predict the chances of being affected by the corona virus. It will ask you some questions, after that the software will analyze your answers, then it will show you the percentage of being affected by corona virus depending upon your answers. If you honestly answer all the questions correctly and the software shows high chances of getting affected by the corona virus, then if possible you should definitely medically test yourself.
 
